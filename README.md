@@ -1,5 +1,5 @@
 # Mywork
-Please note that you are allowed to use any programming languages to complete the task. However, we prefer solutions either in C++, C#, or Java.
+
 
 1.	Create a function that accepts a string and change every letter in the string to the next letter.
 o	The function will display the converted string and will not return any value.
