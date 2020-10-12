@@ -1,4 +1,4 @@
-# Mywork
+# Excersice for Function and array
 
 
 1.	Create a function that accepts a string and change every letter in the string to the next letter.
